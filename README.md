@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/drive/1z37zVXMjerrcLnH0XjnQkH_yVdAssPt7#scrollTo=c84i0Xyng8sO)](https://colab.research.google.com/github/PeytonMullarkey/anomalous-diffusion-simulations/blob/main/anomalous_diffusion.ipynb)
+
